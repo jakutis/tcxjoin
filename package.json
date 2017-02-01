@@ -1,6 +1,6 @@
 {
   "name": "tcxjoin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Join two Training Center XML (tcx) files",
   "main": "index.js",
   "bin": "index.js",
